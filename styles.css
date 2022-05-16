@@ -15,8 +15,8 @@ body {
   align-items: center;
 }
 
-div.container {
-  max-width: 28rem;
+main {
+  max-width: 27rem;
   margin: 0 auto;
 }
 
